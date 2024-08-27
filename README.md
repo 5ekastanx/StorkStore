@@ -1,21 +1,21 @@
-# Онлайн Магазин Различных Товаров
+# Online Store for Various Products
 
-Добро пожаловать в проект **Онлайн Магазин Различных Товаров**! Этот проект представляет собой веб-приложение для продажи широкого ассортимента товаров, включая товары как для детей, так и для взрослых.
+Welcome to the **Online Store for Various Products** project! This project is a web application for selling a wide range of products, including items for both children and adults.
 
-## Описание
+## Description
 
-Проект разработан с использованием **React** для фронтенда и **Node.js** для бэкенда. Он предоставляет пользователю возможность просмотра каталога товаров, добавления товаров в корзину, оформления заказа и управления учетной записью.
+The project is developed using **React** for the frontend and **Node.js** for the backend. It provides users with the ability to browse the product catalog, add items to the cart, place orders, and manage their accounts.
 
-## Структура проекта
+## Project Structure
 
-- **client**: содержит код фронтенда на React.
-- **server**: содержит код серверной части на Node.js.
+- **client**: contains the frontend code in React.
+- **server**: contains the backend code in Node.js.
 
-## Установка и запуск
+## Installation and Launch
 
-### Установка зависимостей
+### Installing Dependencies
 
-1. Клонируйте репозиторий:
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/5ekastanx/StorkStore.git
