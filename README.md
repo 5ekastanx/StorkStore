@@ -1,5 +1,5 @@
 # Online Store for Various Products
-
+ 
 Welcome to the **Online Store for Various Products** project! This project is a web application for selling a wide range of products, including items for both children and adults.
 
 ## Description
