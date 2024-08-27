@@ -5,7 +5,7 @@ Welcome to the **Online Store for Various Products** project! This project is a 
 ## Description  
 
 The project is developed using **React** for the frontend and **Node.js** for the backend. It provides users with the ability to browse the product catalog, add items to the cart, place orders, and manage their accounts.
- 
+  
 ## Project Structure
 
 - **client**: contains the frontend code in React.
